@@ -1,9 +1,8 @@
 #ice
-s,t,u=map(str,input().split())
+s=[i for i in input().split()]
 v=input()
 c=0
-l=[s,t,u]
-for i in l:
+for i in s:
     if i==v:
         c=c+1
 print(c)
