@@ -1,3 +1,4 @@
+#ice
 n=int(input())
 l=[]
 c=0
