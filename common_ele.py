@@ -6,4 +6,5 @@ for a in s:
 	for b in t:
 		if a==b:
 			l.append(a)
+			t.remove(b)
 print(*l)
