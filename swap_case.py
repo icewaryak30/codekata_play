@@ -1,3 +1,4 @@
+#ice
 s=input()
 g=[]
 for i in s:
