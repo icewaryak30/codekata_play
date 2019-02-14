@@ -1,3 +1,4 @@
+#ice
 n=int(input())
 l=[int(i) for i in input().split()]
 x=max(l)
