@@ -14,7 +14,6 @@ def power(b):
         return 0
 n=int(input())
 b=bin_dec(n)
-print(b)
 while power(b)==0:
     b+=1
 print(b)
